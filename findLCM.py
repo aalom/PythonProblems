@@ -1,6 +1,6 @@
-a=input("Enter the first number:")
-b=input("Enter the second number:")
-if(a<b):
+a=int(input("Enter the first number: "))
+b=int(input("Enter the second number: "))
+if(a>b):
     min1=a
 else:
     min1=b
